@@ -5,7 +5,7 @@ the basics of networking and cyber security.
 
 The program tries to connect to a single TCP port
 on a target IP address and tells you whether the
-connection was successful.
+connection was successful or not
 
 This is a learning project, not a professional tool.
 
